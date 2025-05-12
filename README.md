@@ -1,15 +1,19 @@
 # HoYoverse-Codes
-List of currently available redemption codes for miHoYo games.
+> Daily-updated lists of active redemption codes for HoYoverse (miHoYo) games
+
+![Last Updated](https://img.shields.io/badge/updated-daily-brightgreen)
+
+## Overview
 - All codes are valid in the US region.
-- Lists are updated daily at 1:15 PST
-- Source code can be found: [here](https://github.com/Hum-Bao/hoyoverse-codes-backend)
+- Lists are updated daily at 1:15 PST.
 
-## **Star Rail** 
-codes [here](./hsr.txt)
+## Game Codes
 
-## **Genshin** 
-codes: [here](./genshin.txt)
+| Game                | Codes Link                 |
+|---------------------|---------------------------|
+| **Honkai: Star Rail (HSR)**       | [View Codes](./hsr.txt)   |
+| **Genshin Impact**  | [View Codes](./genshin.txt)|
+| **Zenless Zone Zero (ZZZ)** | Coming Soon        |
 
-## **ZZZ** 
-codes: TO BE ADDED
-
+## Source Code
+The backend powering this list is open source: [View on GitHub](https://github.com/Hum-Bao/hoyoverse-codes-backend)
