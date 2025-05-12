@@ -1,8 +1,8 @@
 # HoYoverse-Codes
-List of currently available promo codes for miHoYo games.
+List of currently available redemption codes for miHoYo games.
 - All codes are valid in the US region.
 - Lists are updated daily at 1:15 PST
-- Source code can be found: TO BE ADDED
+- Source code can be found: [here](https://github.com/Hum-Bao/hoyoverse-codes-backend)
 
 ## **Star Rail** 
 codes [here](./hsr.txt)
