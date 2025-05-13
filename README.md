@@ -13,7 +13,7 @@
 |---------------------|---------------------------|
 | **Honkai: Star Rail (HSR)**       | [View Codes](./hsr.txt)   |
 | **Genshin Impact**  | [View Codes](./genshin.txt)|
-| **Zenless Zone Zero (ZZZ)** | Coming Soon        |
+| **Zenless Zone Zero (ZZZ)** | [View Codes](./zzz.txt)        |
 
 ## Source Code
 The backend powering this list is open source: [View on GitHub](https://github.com/Hum-Bao/hoyoverse-codes-backend)
